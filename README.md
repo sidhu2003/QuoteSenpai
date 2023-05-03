@@ -18,5 +18,18 @@
 - ANIMECHAN API
 - BULMA
 
+### API 
+
+> animechan API 
+
+- [GitHub](https://github.com/rocktimsaikia/anime-chan)
+- [Link](https://animechan.vercel.app)
+
+**Usage** 
+`fetch('https://animechan.vercel.app/api/random')
+    .then(response => response.json())
+    .then(quote => console.log(quote))`
+
+
 
 
