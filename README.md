@@ -23,7 +23,7 @@
 ### API 
 
 > animechan API 
-> Provided random quotes in a json format where ive used in my website
+> Provided random quotes in a json format
 
 - [GitHub](https://github.com/rocktimsaikia/anime-chan)
 - [Link](https://animechan.vercel.app)
@@ -50,6 +50,10 @@
 
 - Our aim is to build a collaborative community where everyone is welcome and valued. We believe that open-source is the way of the future, and we're excited to see what contributions you will bring to the table.
 
+# LICENSE
+
+ The source code is licensed [MIT](https://github.com/sidhu2003/QuoteSenpai/blob/main/LICENSE)
+ 
    
 
 
