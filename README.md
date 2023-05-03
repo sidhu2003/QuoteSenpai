@@ -28,12 +28,9 @@
 - [Link](https://animechan.vercel.app)
 
 **Usage** 
-`
- fetch('https://animechan.vercel.app/api/random')
+` fetch('https://animechan.vercel.app/api/random')
     .then(response => response.json())
-    .then(quote => console.log(quote)) 
-
-`
+    .then(quote => console.log(quote)) `
 
    
 
