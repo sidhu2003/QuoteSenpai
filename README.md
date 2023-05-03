@@ -23,6 +23,7 @@
 ### API 
 
 > animechan API 
+> Provided random quotes in a json format where ive used in my website
 
 - [GitHub](https://github.com/rocktimsaikia/anime-chan)
 - [Link](https://animechan.vercel.app)
@@ -41,6 +42,7 @@
 	quote: 'You\'re slow, even when you\'re falling.'
 }
 ```
+
 
    
 
