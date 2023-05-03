@@ -8,3 +8,15 @@
 - now navigate down and click on generate button
 - Every time you click the generate button it will generate new quotes every time
 - Enjoy!!!
+
+# Tech Stack 
+
+- HTML
+- CSS 
+- JAVA SCRIPT
+- FETCH API
+- ANIMECHAN API
+- BULMA
+
+
+
