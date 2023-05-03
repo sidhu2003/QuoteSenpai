@@ -32,6 +32,15 @@
 ` fetch('https://animechan.vercel.app/api/random')
     .then(response => response.json())
     .then(quote => console.log(quote)) `
+    
+**Output** 
+```
+{
+	anime: 'Bleach',
+	character: 'Kuchiki Byakuya',
+	quote: 'You\'re slow, even when you\'re falling.'
+}
+```
 
    
 
