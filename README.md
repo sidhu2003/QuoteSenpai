@@ -54,7 +54,6 @@
 
  The source code is licensed [MIT](https://github.com/sidhu2003/QuoteSenpai/blob/main/LICENSE)
  
- ---
  ***Copyright (c) 2023 [Venkata Siddardha Rali](https://github.com/sidhu2003)***
  
    
