@@ -1,37 +1,18 @@
 .heading{
     font-size: larger;
     font-weight: bold;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 1em;
+    margin-left: 1em; 
 }
-
+ 
 .nav{
-        box-shadow: 0 2px 2px -2px rgba(0,0,0,0.4);
-}
-
-.nav-item1{
-    margin-left: 50em;
-    margin-right: 1em;
-    font-weight: bolder;
-}
-
-.nav-item2{
-    margin-left:2em;
-    margin-right: 1em;
-    font-weight: bolder;
-}
-
-.git{
-    margin-right: 0.4em;
-    font-weight: bolder;
+        box-shadow: 0 2px 2px -2px rgba(0,0,0,0.2);
 }
 
 .head{
     font-size: 4em;
     font-weight: bolder;
     text-shadow: 0px 2px rgba(0,0,0,0.1);
-    margin-top: 2.5em; 
+    margin-top: 0.5em; 
     text-align: center;
 }
 
@@ -43,11 +24,12 @@
 
 }
 
+.hbody{
+  margin: 0 auto;
+}
+
 .try{
-    margin-top: 10em;
-    margin-bottom: 0.5em;
-    /* margin-left: 10em;
-    margin-right: 1em; */
+    margin-top: 6em;
     font-size: 1.5em;
     font-weight: bolder;
     text-align: center;
@@ -55,28 +37,28 @@
 
 .p1{
     margin-bottom: 1em;
-    /* margin-left: 10em;
-    margin-right: 1em; */
     font-size: 1.5em;
     text-align: center;
 }
 
 .btn1{
-    margin-left: 25em;
-    margin-bottom: 0.5em;
-    margin-top: 1em;
     font-size: 1.5em;
-    display: flex;
-    justify-content: center;
-
+    display: block;
+	  margin: 0 auto;
 }
 
 .btn{
-    margin-left: 25.8em;
-    margin-right: 1em;
-    margin-bottom: 1em;
+  font-size: 1.5em;
+  display: block;
+  margin: 0 auto;
+}
+
+.note{
     margin-top: 1em;
-    font-size: 1.5em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    text-align: center;
 }
 
 .generator{
@@ -85,6 +67,10 @@
 
 .output{
     margin-bottom: 10em;
+}
+
+.foot{
+  position: sticky;
 }
 
 /*Down scroll Animation*/
