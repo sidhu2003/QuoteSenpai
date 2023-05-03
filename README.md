@@ -44,6 +44,8 @@ fetch('https://animechan.vercel.app/api/random')
 	quote: 'You\'re slow, even when you\'re falling.'
 }
 ```
+---
+
 # contributers note
 
 - I am thrilled to announce that this website is open to contribution! Our project is open-source and completely free to contribute to. We believe that everyone has something valuable to bring to the table, and we would love to have your input.
